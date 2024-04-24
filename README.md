@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Hussain</h1>
-<h3 align="center">A aspiring MERN Stack Developer passionate about crafting efficient web solutions. With a B.Tech background, I'm dedicated to innovating in user-centric software development. Eager to contribute skills in React, Node.js, Express.js, and MongoDB to dynamic projects.</h3>
+<h3 align="center">An aspiring MERN Stack Developer passionate about crafting efficient web solutions. With a B.Tech background, I'm dedicated to innovating in user-centric software development. Eager to contribute skills in React, Node.js, Express.js, and MongoDB to dynamic projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifhussain97&label=Profile%20views&color=0e75b6&style=flat" alt="asifhussain97" /> </p>
 
